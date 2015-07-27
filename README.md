@@ -3,6 +3,7 @@
 
 ## Документация
 ---
+
 ### Установка
 Для использования библиотеки нужно скомпилировать ее в .jar и включить в проект в вашей IDE.
 ### Использование
@@ -20,5 +21,6 @@ VK.version = 5.34;
 String user_info = Users.get("user_ids=1&fields=city,sex,country&name_case=nom");
 ```
 ---
+
 ## Лицензия
 [The MIT License](http://opensource.org/licenses/MIT)
