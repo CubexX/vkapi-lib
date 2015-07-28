@@ -1,4 +1,5 @@
 package Methods;
+
 /*
 #
 # Copyright (c) 2015 Alexey Miroshnichenko

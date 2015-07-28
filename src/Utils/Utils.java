@@ -1,4 +1,6 @@
-package Utils;/*
+package Utils;
+
+/*
 #
 # Copyright (c) 2015 Alexey Miroshnichenko
 #

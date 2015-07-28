@@ -1,4 +1,6 @@
-package VKontakte;/*
+package VKontakte;
+
+/*
 #
 # Copyright (c) 2015 Alexey Miroshnichenko
 #
